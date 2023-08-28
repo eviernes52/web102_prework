@@ -20,8 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src= "https://imgur.com/a/ZvdlMV2.gif" title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
-
+![](https://github.com/eviernes52/web102_prework/blob/main/seamonstercrowdfunding.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/)  
 <!-- Recommended tools:
