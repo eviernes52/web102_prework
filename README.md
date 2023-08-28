@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src= "https://imgur.com/a/ZvdlMV2" title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+<img src= "https://imgur.com/a/ZvdlMV2.gif" title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/)  
